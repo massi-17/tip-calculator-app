@@ -1,0 +1,21 @@
+@media(min-width: 769px) {
+  #logo {
+    padding: 7rem 0 4rem 0;
+    font-size: 1.2rem;
+  }
+    #wrapper {
+    margin: 0 auto;
+    width: 70%;
+    height: 60vh;
+    flex-direction: row;
+    border-radius: 1.5rem;
+    box-shadow: 0 0 25px 0 rgba(0,0,0, .15);
+    max-width: 62.5rem;
+  }
+  #data, #results {
+    width: 50%;
+  }
+  #results {
+    justify-content: space-between;
+  }
+}
