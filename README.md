@@ -26,7 +26,7 @@ The app is responsive so both optimize for desktop or mobile devices.
 
 ## Demo
 
-To see a live demo of the Tip-Calculator-App, visit [Demo](https://www.massidev.com/portfolio/drumpad/).
+To see a live demo of the Tip-Calculator-App, visit [Demo](https://www.massidev.com/portfolio/tip-calculator-app/).
 
 ## Installation
 
